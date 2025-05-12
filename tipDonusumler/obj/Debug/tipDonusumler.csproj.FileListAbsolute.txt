@@ -1,0 +1,7 @@
+C:\Users\omer\source\repos\PatikaDevC#\tipDonusumler\bin\Debug\tipDonusumler.exe.config
+C:\Users\omer\source\repos\PatikaDevC#\tipDonusumler\bin\Debug\tipDonusumler.exe
+C:\Users\omer\source\repos\PatikaDevC#\tipDonusumler\bin\Debug\tipDonusumler.pdb
+C:\Users\omer\source\repos\PatikaDevC#\tipDonusumler\obj\Debug\tipDonusumler.csproj.AssemblyReference.cache
+C:\Users\omer\source\repos\PatikaDevC#\tipDonusumler\obj\Debug\tipDonusumler.csproj.CoreCompileInputs.cache
+C:\Users\omer\source\repos\PatikaDevC#\tipDonusumler\obj\Debug\tipDonusumler.exe
+C:\Users\omer\source\repos\PatikaDevC#\tipDonusumler\obj\Debug\tipDonusumler.pdb

@@ -1,0 +1,7 @@
+C:\Users\omer\source\repos\PatikaDevC#\BaseEntityModel\bin\Debug\BaseEntityModel.exe.config
+C:\Users\omer\source\repos\PatikaDevC#\BaseEntityModel\bin\Debug\BaseEntityModel.exe
+C:\Users\omer\source\repos\PatikaDevC#\BaseEntityModel\bin\Debug\BaseEntityModel.pdb
+C:\Users\omer\source\repos\PatikaDevC#\BaseEntityModel\obj\Debug\BaseEntityModel.csproj.AssemblyReference.cache
+C:\Users\omer\source\repos\PatikaDevC#\BaseEntityModel\obj\Debug\BaseEntityModel.csproj.CoreCompileInputs.cache
+C:\Users\omer\source\repos\PatikaDevC#\BaseEntityModel\obj\Debug\BaseEntityModel.exe
+C:\Users\omer\source\repos\PatikaDevC#\BaseEntityModel\obj\Debug\BaseEntityModel.pdb

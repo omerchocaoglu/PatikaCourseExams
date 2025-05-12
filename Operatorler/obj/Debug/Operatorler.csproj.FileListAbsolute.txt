@@ -1,0 +1,7 @@
+C:\Users\omer\source\repos\PatikaDevC#\Operatorler\bin\Debug\Operatorler.exe.config
+C:\Users\omer\source\repos\PatikaDevC#\Operatorler\bin\Debug\Operatorler.exe
+C:\Users\omer\source\repos\PatikaDevC#\Operatorler\bin\Debug\Operatorler.pdb
+C:\Users\omer\source\repos\PatikaDevC#\Operatorler\obj\Debug\Operatorler.csproj.AssemblyReference.cache
+C:\Users\omer\source\repos\PatikaDevC#\Operatorler\obj\Debug\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\omer\source\repos\PatikaDevC#\Operatorler\obj\Debug\Operatorler.exe
+C:\Users\omer\source\repos\PatikaDevC#\Operatorler\obj\Debug\Operatorler.pdb

@@ -1,0 +1,7 @@
+C:\Users\omer\source\repos\PatikaDevC#\Diziler\bin\Debug\Diziler.exe.config
+C:\Users\omer\source\repos\PatikaDevC#\Diziler\bin\Debug\Diziler.exe
+C:\Users\omer\source\repos\PatikaDevC#\Diziler\bin\Debug\Diziler.pdb
+C:\Users\omer\source\repos\PatikaDevC#\Diziler\obj\Debug\Diziler.csproj.AssemblyReference.cache
+C:\Users\omer\source\repos\PatikaDevC#\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\omer\source\repos\PatikaDevC#\Diziler\obj\Debug\Diziler.exe
+C:\Users\omer\source\repos\PatikaDevC#\Diziler\obj\Debug\Diziler.pdb

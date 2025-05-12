@@ -1,0 +1,7 @@
+C:\Users\omer\source\repos\PatikaDevC#\Degiskenler\bin\Debug\Degiskenler.exe.config
+C:\Users\omer\source\repos\PatikaDevC#\Degiskenler\bin\Debug\Degiskenler.exe
+C:\Users\omer\source\repos\PatikaDevC#\Degiskenler\bin\Debug\Degiskenler.pdb
+C:\Users\omer\source\repos\PatikaDevC#\Degiskenler\obj\Debug\Degiskenler.csproj.AssemblyReference.cache
+C:\Users\omer\source\repos\PatikaDevC#\Degiskenler\obj\Debug\Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\omer\source\repos\PatikaDevC#\Degiskenler\obj\Debug\Degiskenler.exe
+C:\Users\omer\source\repos\PatikaDevC#\Degiskenler\obj\Debug\Degiskenler.pdb

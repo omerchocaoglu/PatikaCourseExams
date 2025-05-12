@@ -1,0 +1,7 @@
+C:\Users\omer\source\repos\PatikaDevC#\FirstExam\bin\Debug\FirstExam.exe.config
+C:\Users\omer\source\repos\PatikaDevC#\FirstExam\bin\Debug\FirstExam.exe
+C:\Users\omer\source\repos\PatikaDevC#\FirstExam\bin\Debug\FirstExam.pdb
+C:\Users\omer\source\repos\PatikaDevC#\FirstExam\obj\Debug\FirstExam.csproj.AssemblyReference.cache
+C:\Users\omer\source\repos\PatikaDevC#\FirstExam\obj\Debug\FirstExam.csproj.CoreCompileInputs.cache
+C:\Users\omer\source\repos\PatikaDevC#\FirstExam\obj\Debug\FirstExam.exe
+C:\Users\omer\source\repos\PatikaDevC#\FirstExam\obj\Debug\FirstExam.pdb

@@ -1,0 +1,7 @@
+C:\Users\omer\source\repos\PatikaDevC#\RecursiveAndExtensionMetotlar\bin\Debug\RecursiveAndExtensionMetotlar.exe.config
+C:\Users\omer\source\repos\PatikaDevC#\RecursiveAndExtensionMetotlar\bin\Debug\RecursiveAndExtensionMetotlar.exe
+C:\Users\omer\source\repos\PatikaDevC#\RecursiveAndExtensionMetotlar\bin\Debug\RecursiveAndExtensionMetotlar.pdb
+C:\Users\omer\source\repos\PatikaDevC#\RecursiveAndExtensionMetotlar\obj\Debug\RecursiveAndExtensionMetotlar.csproj.AssemblyReference.cache
+C:\Users\omer\source\repos\PatikaDevC#\RecursiveAndExtensionMetotlar\obj\Debug\RecursiveAndExtensionMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\omer\source\repos\PatikaDevC#\RecursiveAndExtensionMetotlar\obj\Debug\RecursiveAndExtensionMetotlar.exe
+C:\Users\omer\source\repos\PatikaDevC#\RecursiveAndExtensionMetotlar\obj\Debug\RecursiveAndExtensionMetotlar.pdb

@@ -1,0 +1,7 @@
+C:\Users\omer\source\repos\PatikaDevC#\TryCatch\bin\Debug\TryCatch.exe.config
+C:\Users\omer\source\repos\PatikaDevC#\TryCatch\bin\Debug\TryCatch.exe
+C:\Users\omer\source\repos\PatikaDevC#\TryCatch\bin\Debug\TryCatch.pdb
+C:\Users\omer\source\repos\PatikaDevC#\TryCatch\obj\Debug\TryCatch.csproj.AssemblyReference.cache
+C:\Users\omer\source\repos\PatikaDevC#\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\omer\source\repos\PatikaDevC#\TryCatch\obj\Debug\TryCatch.exe
+C:\Users\omer\source\repos\PatikaDevC#\TryCatch\obj\Debug\TryCatch.pdb

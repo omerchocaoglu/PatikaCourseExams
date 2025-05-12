@@ -1,0 +1,7 @@
+C:\Users\omer\source\repos\PatikaDevC#\Donguler\bin\Debug\Donguler.exe.config
+C:\Users\omer\source\repos\PatikaDevC#\Donguler\bin\Debug\Donguler.exe
+C:\Users\omer\source\repos\PatikaDevC#\Donguler\bin\Debug\Donguler.pdb
+C:\Users\omer\source\repos\PatikaDevC#\Donguler\obj\Debug\Donguler.csproj.AssemblyReference.cache
+C:\Users\omer\source\repos\PatikaDevC#\Donguler\obj\Debug\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\omer\source\repos\PatikaDevC#\Donguler\obj\Debug\Donguler.exe
+C:\Users\omer\source\repos\PatikaDevC#\Donguler\obj\Debug\Donguler.pdb

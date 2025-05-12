@@ -1,0 +1,7 @@
+C:\Users\omer\source\repos\PatikaDevC#\Metotlar\bin\Debug\Metotlar.exe.config
+C:\Users\omer\source\repos\PatikaDevC#\Metotlar\bin\Debug\Metotlar.exe
+C:\Users\omer\source\repos\PatikaDevC#\Metotlar\bin\Debug\Metotlar.pdb
+C:\Users\omer\source\repos\PatikaDevC#\Metotlar\obj\Debug\Metotlar.csproj.AssemblyReference.cache
+C:\Users\omer\source\repos\PatikaDevC#\Metotlar\obj\Debug\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\omer\source\repos\PatikaDevC#\Metotlar\obj\Debug\Metotlar.exe
+C:\Users\omer\source\repos\PatikaDevC#\Metotlar\obj\Debug\Metotlar.pdb
